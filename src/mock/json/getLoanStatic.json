@@ -1,0 +1,26 @@
+{
+  "status": "200",
+  "message": "处理成功",
+  "data": [
+    {
+      "days": "2024-08-16",
+      "applicant_count": 1,
+      "financing_sum_amount": 100000.00
+    },
+    {
+      "days": "2024-08-22",
+      "applicant_count": 2,
+      "financing_sum_amount": 200000.00
+    },
+    {
+      "days": "2024-09-24",
+      "applicant_count": 1,
+      "financing_sum_amount": 100000.00
+    },
+    {
+      "days": "2024-09-30",
+      "applicant_count": 1,
+      "financing_sum_amount": 300000.00
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "200",
+  "message": "处理成功",
+  "data": [
+    {
+      "financialName": "邮政储蓄",
+      "creditAmountSum": "6099999.90",
+      "creditCnt": 6
+    },
+    {
+      "financialName": "合肥商业银行",
+      "creditAmountSum": "5500000.00",
+      "creditCnt": 3
+    },
+    {
+      "financialName": "工商银行",
+      "creditAmountSum": "3174223.00",
+      "creditCnt": 17
+    },
+    {
+      "financialName": "农业银行",
+      "creditAmountSum": "2000300.00",
+      "creditCnt": 3
+    }
+  ]
+}
