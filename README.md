@@ -32,4 +32,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 主页浏览
 
-![alt 属性文本](/public/home.png)
+![alt 属性文本](/public/home.png?raw=true)
